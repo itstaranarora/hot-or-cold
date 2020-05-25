@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hot-or-cold/static/css/main.b7bb59d1.chunk.css",
+    "main.js": "/hot-or-cold/static/js/main.1029dfff.chunk.js",
+    "main.js.map": "/hot-or-cold/static/js/main.1029dfff.chunk.js.map",
+    "runtime-main.js": "/hot-or-cold/static/js/runtime-main.6048b742.js",
+    "runtime-main.js.map": "/hot-or-cold/static/js/runtime-main.6048b742.js.map",
+    "static/js/2.194ba27e.chunk.js": "/hot-or-cold/static/js/2.194ba27e.chunk.js",
+    "static/js/2.194ba27e.chunk.js.map": "/hot-or-cold/static/js/2.194ba27e.chunk.js.map",
+    "index.html": "/hot-or-cold/index.html",
+    "precache-manifest.9f62bb98498a748fbe898ed6f0442dd4.js": "/hot-or-cold/precache-manifest.9f62bb98498a748fbe898ed6f0442dd4.js",
+    "service-worker.js": "/hot-or-cold/service-worker.js",
+    "static/css/main.b7bb59d1.chunk.css.map": "/hot-or-cold/static/css/main.b7bb59d1.chunk.css.map",
+    "static/js/2.194ba27e.chunk.js.LICENSE.txt": "/hot-or-cold/static/js/2.194ba27e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6048b742.js",
+    "static/js/2.194ba27e.chunk.js",
+    "static/css/main.b7bb59d1.chunk.css",
+    "static/js/main.1029dfff.chunk.js"
+  ]
+}
